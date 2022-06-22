@@ -50,7 +50,7 @@
     <PackageReference Include="Microsoft.AspNet.WebPages" Version="3.0.0" />
     <PackageReference Include="Microsoft.Web.Infrastructure" Version="1.0.0.0" />
     <PackageReference Include="Modernizr" Version="2.6.2" />
-    <PackageReference Include="Newtonsoft.Json" Version="5.0.6" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Respond" Version="1.2.0" />
     <PackageReference Include="WebGrease" Version="1.5.2" />
   </ItemGroup>
